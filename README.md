@@ -1,1 +1,3 @@
-# comp2140-tutorial
+# COMP2140-Tutorial
+
+This is the sample for Shanara Watts
